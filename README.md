@@ -4,10 +4,8 @@
 
 ### AI Engineer · Machine Learning · Data Science — building retrieval and search systems that scale
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/shreshta-ganapuram)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shreshta.ganapuram@gmail.com)
 
 </div>
 
@@ -40,7 +38,6 @@ I'm looking for **internship and new-grad roles** in AI/ML engineering, backend 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **Tools & Infrastructure**
 
@@ -67,25 +64,6 @@ I'm looking for **internship and new-grad roles** in AI/ML engineering, backend 
 - System design fundamentals for large-scale ML serving
 - Evaluation frameworks for RAG quality (retrieval precision/recall, hallucination rate)
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-handle&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-handle&layout=compact&hide_border=true&theme=default" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-handle&hide_border=true&theme=default" />
 
 </div>
-
-## Contact
-
-- **Email:** youremail@example.com
-- **LinkedIn:** [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
-- **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
-
----
-
-<div align="center">
-<sub>Fun fact: LSH-based deduplication can compare millions of documents in the time brute-force pairwise comparison would take on a few thousand — the same trick that makes plagiarism detectors and search engines feasible at web scale.</sub>
 </div>
