@@ -5,7 +5,7 @@
 ### AI/ML Engineer · Data Science · Retrieval Systems — building production-grade pipelines, not just projects
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shreshta.ganapuram@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/shreshta-ganapuram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreshta-ganapuram/)
 
 </div>
 
@@ -40,12 +40,17 @@ Looking for **AI/ML engineering, data science, and backend engineering internshi
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-5A4FCF?style=flat-square)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **Backend & Tools**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ## Featured Projects
@@ -54,10 +59,10 @@ Looking for **AI/ML engineering, data science, and backend engineering internshi
 |---|---|---|
 | **[RAG Document Processing Pipeline]** | Personal recreation of enterprise RAG preprocessing work — hierarchical PDF parsing, metadata extraction, and section-aware/recursive chunking to improve retrieval quality for downstream LLM applications. | Python, PyMuPDF, Sentence Transformers, spaCy |
 | **[Document Deduplication (Exact + Semantic Similarity)]** | Deduplication pipeline combining exact-match and semantic-similarity techniques (MinHash/LSH + embeddings) to strip redundant documents from a corpus before indexing, avoiding brute-force pairwise comparison at scale. | Python, scikit-learn, Sentence Transformers |
-| **[FindIt — Lost & Found Platform]** | Flask + MySQL platform with rule-based matching on item attributes (category, location) and campus-specific location mapping (library, academic blocks, hostels) to improve match accuracy. Includes search, filtering, and claim tracking. | Python (Flask), MySQL, HTML, CSS |
-| **[Smart Parking System]** | Core Java system implementing dynamic slot allocation, ticket generation, and automated fee calculation, designed around clean class separation for maintainability. | Java (OOP) |
 
 ## Currently Learning
 
 - Cloud-native and scalable AI infrastructure (Azure AI Search, vector/hybrid search)
 - Evaluation methodology for RAG systems (retrieval precision/recall, relevance scoring)
+
+- <div align="center">
