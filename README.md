@@ -75,5 +75,3 @@
 - LLM application development
 - Scalable document processing systems
 - Cloud-native AI applications
-
-- <div align="center">
